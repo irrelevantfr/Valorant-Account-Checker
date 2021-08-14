@@ -1,7 +1,6 @@
 import random
 import asyncio
 import fake_useragent
-import requests
 import aiohttp
 import re
 import threading
